@@ -31,3 +31,8 @@ print(isinstance(score, int))
 
 # Check if 'score' is a float using isinstance()
 print(isinstance(score, float))
+
+# Step 10:
+# Print the value of 'score' along with its data type
+
+print(score, type(score))
