@@ -23,3 +23,11 @@ print(age, type(age))
 # Step 8: Declare 'score' as float and check if it is an integer
 score = 80.5
 print(isinstance(score, int))
+
+# Step 9:
+# The output is False, which shows that 'score' is not an int
+
+# Float is another numeric data type in Python (numbers with decimals)
+
+# Check if 'score' is a float using isinstance()
+print(isinstance(score, float))
