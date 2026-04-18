@@ -180,6 +180,5 @@ Employee: John Doe | Age: 28 | Position: Data Analyst | Salary: $75000
 DEV
 2026
 JD
-001
-PS D:\Microsoft VS Code> 
+001 
 '''
